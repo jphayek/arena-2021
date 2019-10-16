@@ -1,7 +1,7 @@
 <?php
 namespace SearchRobot;
 
-public function SearchRobot() {
+public class SearchRobot() {
     $this->direction  = $direction;
     $this->robot = $robot;
     $this->position = $tentativePosition;
